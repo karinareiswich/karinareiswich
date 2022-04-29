@@ -21,6 +21,8 @@
 <img align="left" alt="less" widch="26px" src="./images/less.png">
 <img align="left" alt="nodejs" widch="26px" src="./images/nodejs.png">
 
+<br>
+
 [бургер-доставка]: https://github.com/karinareiswich/Burger
 [фитнес-зал]: https://github.com/karinareiswich/Fitness
 [седона]: https://github.com/karinareiswich/Sedona
