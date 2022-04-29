@@ -12,10 +12,8 @@
 
 ### Связаться со мной
 
-[<img align="left" alt="telegram" widch="26px" src="./images/telegram.png">] [telegram]
-[<img align="left" alt="instagram" widch="26px" src="./images/instagram.png">] [inst]
-[<img align="left" alt="vk" widch="26px" src="./images/vk.png">] [vk]
-[<img align="left" alt="whatsapp" widch="26px" src="./images/whatsapp.png">] []
+[Telegram.]
+[Instagram.]
 
 <br/>
 
@@ -35,6 +33,5 @@
 [бургер-доставка]: https://github.com/karinareiswich/Burger
 [фитнес-зал]: https://github.com/karinareiswich/Fitness
 [седона]: https://github.com/karinareiswich/Sedona
-[telegram]: https://t.me/karina_rei
-[inst]: https://instagram.com/reiswich_?igshid=YmMyMTA2M2Y=
-[vk]: https://vk.com/karina_rei
+[telegram.]: https://t.me/karina_rei
+[instagram.]: https://instagram.com/reiswich_?igshid=YmMyMTA2M2Y=
