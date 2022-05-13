@@ -30,7 +30,7 @@
 <br/>
 
 [бургер-доставка]: https://github.com/karinareiswich/Burger
-[фитнес-зал]: https://github.com/karinareiswich/Fitness
+[фитнес-зал]: https://karinareiswich.github.io/gym/index.html
 [седона]: https://github.com/karinareiswich/Sedona
 [telegram.]: https://t.me/karina_rei
 [instagram.]: https://instagram.com/reiswich_?igshid=YmMyMTA2M2Y=
