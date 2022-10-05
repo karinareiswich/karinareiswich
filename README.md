@@ -7,8 +7,8 @@
 -   Изучаю Java Script
 -   Буду рада продуктивному сотрудничеству
 -   Проект [Бургер-доставка]
--   Проект [Фитнес-зал]
--   Учебный проект [Седона]
+-   Проект жилого комплекса [Нура-элит]
+-   Опрос на [JS]
 
 ### Связаться со мной
 
@@ -30,7 +30,7 @@
 <br/>
 
 [бургер-доставка]: https://github.com/karinareiswich/Burger
-[фитнес-зал]: https://karinareiswich.github.io/gym/index.html
-[седона]: https://github.com/karinareiswich/Sedona
+[нура-элит]: https://github.com/karinareiswich/nura_elite
+[js]: https://karinareiswich.github.io/quiz/index.html
 [telegram.]: https://t.me/karina_rei
 [instagram.]: https://instagram.com/reiswich_?igshid=YmMyMTA2M2Y=
